@@ -1,4 +1,13 @@
+# BlazingSQL 21.10.00 (TBD)
+## New Features
+
+## Improvements
+
+## Bug Fixes
+
 # BlazingSQL 21.08.00 (August 12th, 2021)
+
+## New Features
 
 ## Improvements
 - #1571 Update ucx-py versions to 0.21
